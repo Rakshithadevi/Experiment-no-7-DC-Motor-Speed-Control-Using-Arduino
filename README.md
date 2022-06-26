@@ -83,6 +83,10 @@ if (buttonstate2 == HIGH){
 ```
 
 ### OUTPUT
+![image](https://user-images.githubusercontent.com/94165326/175798368-aaacf102-8912-4ea4-b51c-5cde33ae1924.png)
+
+![image](https://user-images.githubusercontent.com/94165326/175798374-9da364ac-99b7-4999-917d-265393825741.png)
+
 
 ### RESULTS 
 
